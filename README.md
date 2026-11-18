@@ -67,7 +67,7 @@ In Washington, contractors must be registered with L&I and carry a bond and liab
 Requires Node 22.22+ and pnpm.
 
 ```bash
-git clone https://github.com/Xuefeng-Zhu/hirecheck && cd hirecheck
+git clone https://github.com/Xuefeng-Zhu/Hirecheck && cd hirecheck
 pnpm install
 cp .env.example .env   # then set the keys below
 pnpm dev               # then open /check on the URL it prints
