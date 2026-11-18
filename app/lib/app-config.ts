@@ -1,5 +1,5 @@
 const rawAppName = "hirecheck";
-const rawAppTitle = "Hirecheck";
+const rawAppTitle = "HireCheck";
 
 const APP_NAME_PLACEHOLDER = "{" + "{APP_NAME}}";
 const APP_TITLE_PLACEHOLDER = "{" + "{APP_TITLE}}";
