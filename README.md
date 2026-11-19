@@ -10,6 +10,10 @@ Built on **Nebius Token Factory** (open-model reasoning) and **Tavily** (live we
 
 ---
 
+## Demo video
+
+**[Watch the 2-minute demo](https://github.com/Xuefeng-Zhu/Hirecheck/blob/main/docs/hirecheck-demo.mp4)** (`docs/hirecheck-demo.mp4`): a live check of B & J Roofing (Redmond) that comes back *Looks safe to hire* with every quote verified, the insufficient-evidence case for "Pacific Roofing" (Seattle) that returns *Can't tell yet*, and a walkthrough of the pipeline. Voiceover generated with Mistral Voxtral TTS; video built with Remotion.
+
 ## The problem
 
 In Washington, contractors must be registered with L&I and carry a bond and liability insurance. Homeowners rarely check, and when they do they get scattered results: a license page here, a BBB page for a *different* company with the same name there, a review site with no context. Scams and unregistered work cost homeowners real money every year.
